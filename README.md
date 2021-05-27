@@ -3,7 +3,7 @@
 # Technologies and Softwares Used
 
 1. Python 3
-2. Google Colab
+2. Google Colaboratory
 3. Jupyter Notebook
 
 # Setup
